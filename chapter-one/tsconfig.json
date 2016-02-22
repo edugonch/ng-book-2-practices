@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "ES5",
+    "target": "ES6",
     "module": "system",
     "moduleResolution": "node",
     "sourceMap": true,
@@ -10,8 +10,7 @@
     "noImplicitAny": false
   },
   "files": [
-    "node_modules/angular2/ts/typings/node/node.d.ts",
-    "node_modules/angular2/typings/browser.d.ts"
+    "node_modules/angular2/ts/typings/node/node.d.ts"
   ],
   "exclude": [
     "node_modules"
